@@ -1,0 +1,30 @@
+{
+  "name": "rogain-component-empty",
+  "version": "1.0.0",
+  "description": "Rogain <Children /> helper component",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/rogain-component-empty.git"
+  },
+  "keywords": [
+    "rogain",
+    "rogain-component",
+    "core"
+  ],
+  "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/rogain-component-empty/issues"
+  },
+  "homepage": "https://github.com/krambuhl/rogain-component-empty",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "rogain-utils": "~0.2"
+  }
+}
