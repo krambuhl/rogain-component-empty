@@ -1,7 +1,7 @@
 {
   "name": "rogain-component-empty",
   "version": "1.0.0",
-  "description": "Rogain <Children /> helper component",
+  "description": "Rogain <Empty /> helper component",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.test.js"
